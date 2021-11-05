@@ -58,3 +58,7 @@ export default function App() {
 Had some issues with asynchronous requests. WIP. 
 
 https://codesandbox.io/s/aws-step-functions-lambda-functions-kfkfk?file=/src/App.js:0-1396
+
+API gateway:
+
+<img width="1186" alt="Screenshot 2021-11-05 at 06 09 05" src="https://user-images.githubusercontent.com/27693622/140466159-e3760b45-0be9-41b1-b121-89bdd583cbdc.png">
